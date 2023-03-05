@@ -1,4 +1,4 @@
-package com.PIvo.project;
+package com.PIvo.project.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

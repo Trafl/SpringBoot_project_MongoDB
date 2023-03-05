@@ -6,9 +6,9 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.PIvo.project.UserRepository;
 import com.PIvo.project.domain.User;
 import com.PIvo.project.dto.UserDTO;
+import com.PIvo.project.repository.UserRepository;
 import com.PIvo.project.services.exeption.ObjectNotFoundException;
 
 @Service
