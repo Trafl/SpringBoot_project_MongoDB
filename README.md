@@ -1,12 +1,13 @@
 
 # Projeto web services Spring Boot REST e MongoDB  
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Trafl/ProjectWebService-Spring_Boot-JPA-Hibernate/blob/main/license) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Trafl/SpringBoot_project_MongoDB/blob/main/LICENSE) 
 
 # Sobre o projeto
- Se trata de um sistema de um blog aonde usuarios fazem posts e esses posts tem comentarios fazendo um CRUD direto no banco de dados
+ Se trata de um sistema de um blog aonde usuarios fazem posts e esses posts tem comentarios fazendo um CRUD direto no banco de dados não relacional trazendo as informações no formato JSON.
 
 ## Modelo de Domínio
-![Modelo](https://github.com/Trafl/assets/blob/main/domainModel.png)
+![Modelo](https://github.com/Trafl/assets/blob/main/modelodd.png)
+
 
 # Tecnologias utilizadas
 - Java
@@ -14,8 +15,6 @@
 - JPA / Hibernate
 - Maven
 - MongoDB
-
-![Instanciado](https://github.com/Trafl/assets/blob/main/domainInstance.png)
 
 ```
 # Autor
