@@ -11,8 +11,9 @@
 
 # Tecnologias utilizadas
 - Java
+- Spring 
 - Spring Boot
-- JPA / Hibernate
+- Spring Data MongoDb
 - Maven
 - MongoDB
 
